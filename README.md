@@ -1,5 +1,5 @@
 # MVO
-Deep Learning Based Monocular Visual Odometry using Coordinate Transformation
+3D Directional Coordinate Transformation for Low-Complexity Monocular Visual Odometry Using Deep Learning
 
 The content will be completed after the article is published.
 
