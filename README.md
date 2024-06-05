@@ -5,7 +5,7 @@ The content will be completed after the article is published.
 
 
 # Readme
-- This is an official Python implementation of article ...
+- This is an Python implementation of article ...
 - Model
     - ![]()
 
