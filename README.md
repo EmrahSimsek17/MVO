@@ -1,4 +1,4 @@
-# MVO
+# MVO - Monocular Visual Odometry
 
 The content will be completed after the article is published.
 
